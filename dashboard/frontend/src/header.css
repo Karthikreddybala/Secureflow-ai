@@ -1,0 +1,37 @@
+.bg-body-tertiary{
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    /* font-size: 30px; */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 70px;
+
+}
+
+/* .login{
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+
+} */
+.me-auto{
+    /* margin-right: 100px; */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: flex-end;
+    gap:30px;
+    /* font-size: 24px; */
+    width: 100%;
+    /* padding-right: 20px; */
+    font-size: 16px;
+
+    /* background-color: aqua; */
+
+}
+
+
+
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+}
